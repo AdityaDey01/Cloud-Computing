@@ -294,57 +294,6 @@ Spark is designed for distributed data processing and supports various workloads
 
 ---
 
-# 📂 Repository Structure
-
-```text
-Cloud-Computing/
-│
-├── README.md
-│
-├── Unit-1-Introduction/
-│   ├── Notes/
-│   ├── Diagrams/
-│   ├── Questions/
-│   └── Resources/
-│
-├── Unit-2-Cloud-Infrastructure/
-│   ├── Notes/
-│   ├── Diagrams/
-│   ├── Calculations/
-│   ├── Questions/
-│   └── Resources/
-│
-├── Unit-3-Virtualization/
-│   ├── Notes/
-│   ├── Case-Studies/
-│   ├── Diagrams/
-│   ├── Questions/
-│   └── Resources/
-│
-├── Unit-4-Cloud-Storage/
-│   ├── Notes/
-│   ├── HDFS/
-│   ├── Databases/
-│   ├── Object-Storage/
-│   ├── Questions/
-│   └── Resources/
-│
-├── Unit-5-Programming-Models/
-│   ├── Hadoop/
-│   ├── MapReduce/
-│   ├── Spark/
-│   ├── GraphLab/
-│   ├── Notes/
-│   └── Questions/
-│
-├── Assignments/
-├── Practical/
-├── Previous-Year-Questions/
-└── Resources/
-```
-
----
-
 # 🧠 Learning Roadmap
 
 ```text
